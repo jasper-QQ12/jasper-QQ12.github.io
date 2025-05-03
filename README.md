@@ -10,7 +10,7 @@
 ## 頁面三 爬蟲成果展示
 **展示我的爬蟲成果**
 ## 頁面四 作者聯絡方式（Email）
-[email 連結](jasper930912@gmail.com)
+**jasper930912@gmail.com**
 
 # 使用技術
 **HTML/CSS/GitHub**
