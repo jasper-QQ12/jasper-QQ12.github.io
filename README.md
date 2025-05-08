@@ -16,5 +16,5 @@
 **HTML/CSS/GitHub**
 ## 要爬蟲的資料與網站
 1. [網站連結](https://opendata.taichung.gov.tw/)
-2. ！[網站圖片](https://book.whsh.tc.edu.tw/uploads/images/gallery/2023-12/ee6nVywbUUGAYT8Y-image.png)
+2. [網站圖片](https://book.whsh.tc.edu.tw/uploads/images/gallery/2023-12/ee6nVywbUUGAYT8Y-image.png)
 
